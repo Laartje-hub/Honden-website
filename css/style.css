@@ -1,0 +1,11 @@
+h1 {
+    color:blue;
+}
+h2 {
+    color:deepskyblue;
+}
+
+body{
+    background-image: url(../img/hond-zonnebril.gif) ;
+    background-size: 110px;
+}
